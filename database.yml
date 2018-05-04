@@ -1,0 +1,11 @@
+sqlite:
+  adapter: sqlite3
+  database: ":memory:"
+mysql:
+  adapter: mysql2
+  database: resource_test
+  username: root
+  encoding: utf8
+postgres:
+  adapter: postgresql
+  database: oh_my_postgres
