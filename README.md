@@ -94,7 +94,7 @@ read_experiment
 
 ### Conclusion
 
-According to experiment results, the json way has better performance than the join way. That's a surprise! I originally consider the join way should be more fast.
+According to experiment results, the json way has better performance than the join way. That's a surprise! I originally consider the join way should be more fast.
 
 The test data are not real word data, the result may not the same when apply to the real world.
 
@@ -170,7 +170,7 @@ After checking out the repo, run `bin/setup` to install dependencies. You can al
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/oh_my_postgres.
+Bug reports and pull requests are welcome on GitHub at https://github.com/darren987469/oh_my_postgres.
 
 ## License
 
